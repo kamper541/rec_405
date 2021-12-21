@@ -1,4 +1,4 @@
-# COURSE RECCOMENDATION.
+# COURSE RECOMENDATION.
 ## THIS PROJECT IS USING [HELPER FUNCTION](https://github.com/aayushmnit/cookbook).
 ### This project is a part of Advance Computer Engineering 261405 2021/2.
 <br>
@@ -14,10 +14,10 @@ Installation (Require Python version 3.x)
 //Install Ipython
 pip3 install ipython
 
-//Install pandas
+//Install Pandas
 pip3 install pandas
 
-//Install pandas profiling
+//Install Pandas Profiling
 pip3 install pandas_profiling
 
 //Install Scipy
@@ -27,3 +27,6 @@ pip3 install scipy
 pip3 install lightfm
 </code>
 </pre></div></div>
+<li>
+Be careful of the path
+</li>
